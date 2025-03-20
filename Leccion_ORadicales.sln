@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leccion_ORadicales", "Leccion_ORadicales\Leccion_ORadicales.csproj", "{2B760AAD-5AF4-46E7-BE9A-B44F3C443E89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B760AAD-5AF4-46E7-BE9A-B44F3C443E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B760AAD-5AF4-46E7-BE9A-B44F3C443E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B760AAD-5AF4-46E7-BE9A-B44F3C443E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B760AAD-5AF4-46E7-BE9A-B44F3C443E89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB6E4454-F3FE-4E0C-9DBB-E201C504E280}
+	EndGlobalSection
+EndGlobal
